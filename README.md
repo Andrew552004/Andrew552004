@@ -1,5 +1,5 @@
 <h2 align="center">Hi there! 👋 I'm Andrés Felipe Vanegas</h2>
-<h3 align="center">Systems Engineer from Colombia | Passionate Frontend Developer</h3>
+<h3 align="center">Systems Engineer from Colombia | Passionate programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew552004&label=Profile%20views&color=0e75b6&style=flat" alt="andrew552004" /> </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Andrew552004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
